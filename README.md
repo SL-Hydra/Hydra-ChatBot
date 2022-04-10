@@ -1,4 +1,5 @@
-## HYDRA AI CHAT-BOT
+# HYDRA AI CHAT-BOT
+
 Chat With HYDRA-ChatBot🤩🌐
 
 ### Run It in Console
@@ -10,7 +11,7 @@ pkg install git
 
 pkg install python3
 
-git clone https://github.com/SL-Hydra/Hydra-ChatBot
+git clone https://github.com/SL-Hydra/Hydra-ChatBot.git
 
 pip3 install requests
 
