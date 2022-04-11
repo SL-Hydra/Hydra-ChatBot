@@ -13,6 +13,8 @@ pkg install python3
 
 git clone https://github.com/SL-Hydra/Hydra-ChatBot.git
 
+cd Hydra-ChatBot
+
 pip3 install requests
 
 python3 chat.py
